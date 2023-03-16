@@ -1,5 +1,5 @@
 # Flappy Bird Game
-This is a Flappy Bird game project developed in Unity. The objective of the game is to guide a bird through pipes without hitting them. The game ends when the bird collides with a pipe or the ground.
+This is a Flappy Bird game project developed in Unity. The objective of the game is to guide a bird through pipes without hitting them. The game ends when the bird collides with a pipe or the ground. The game gets progressivly harder, and contains moving pipes for extra difficulty.
 
 ## Getting Started
 To get started with this project, you will need to have Unity installed on your computer. You can download Unity from the official website: https://unity.com/. Once you have Unity installed, you can clone this repository or download the source code as a zip file.
